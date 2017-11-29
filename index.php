@@ -38,7 +38,7 @@ and open the template in the editor.
          <div id="result" style="height: 100px;border:2px solid #000;">
             
         </div>
-        
+        <div class="btn btn-primary"><a href="show.php">Show All</a> </div>
         <script src="js/jquery-3.2.1.js" type="text/javascript"></script>
         <script src="js/popper.min.js" type="text/javascript"></script>
         <script src="js/bootstrap.js" type="text/javascript"></script>
